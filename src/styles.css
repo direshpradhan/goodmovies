@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap");
+
+.App {
+  text-align: center;
+  /* color: white; */
+}
+
+body {
+  margin: 0;
+  background-color: rgb(15, 15, 15);
+  font-family: "Lato", sans-serif;
+  color: white;
+}
+
+.title {
+  margin-block-start: 0;
+}
+
+.btn-genre {
+  padding: 0.5rem;
+  margin: 1rem 0.5rem;
+  border: 1px solid black;
+  border-radius: 0.5rem;
+  color: white;
+  background-color: #6b7280;
+  font-family: "Lato", sans-serif;
+  cursor: pointer;
+}
+
+.btn-genre:hover {
+  background-color: blue;
+}
+
+.list-movie {
+  border: 1px solid rgb(50, 50, 50);
+  margin: auto;
+  padding: 1.5rem;
+  border-radius: 0.3rem;
+  max-width: 550px;
+  margin-top: 2rem;
+  text-align: left;
+}
