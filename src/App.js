@@ -5,12 +5,12 @@ const database = {
   Marvel: [
     {
       name: "Captain America: The First Avenger",
-      rating: "/10",
+      rating: "6.9/10",
       director: "Joe Johnston"
     },
     {
       name: "Captain America: Civil War",
-      rating: "/10",
+      rating: "7.8/10",
       director: "Joe Russo, Anthony Russo"
     },
     {
@@ -60,7 +60,7 @@ const database = {
     },
     {
       name: "Avengers: Endgame",
-      rating: "/10",
+      rating: "8.4/10",
       director: "Joe Russo, Anthony Russo"
     }
   ],
